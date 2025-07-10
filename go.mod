@@ -4,7 +4,7 @@ go 1.24
 
 require github.com/lib/pq v1.10.9
 
-require github.com/brianvoe/gofakeit/v7 v7.3.0
+require github.com/brianvoe/gofakeit v3.18.0+incompatible
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

@@ -3,7 +3,7 @@ package util
 import (
 	"math/rand"
 
-	"github.com/brianvoe/gofakeit/v7"
+	"github.com/brianvoe/gofakeit"
 )
 
 func GenerateRandomOwner() string {
